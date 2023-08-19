@@ -1,0 +1,25 @@
+body {
+    background-color: brown;
+    color: white;
+    font-size: 24px;
+}
+
+p {
+    color: aqua;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+div {
+    background-color: green;
+    height: auto;
+    width: fit-content;
+}
+
+span {
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+}
