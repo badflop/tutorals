@@ -8,6 +8,22 @@ p {
     color: aqua;
 }
 
+.intro {
+    font-size: 30px;
+}
+
+.outro {
+    color: aliceblue;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.accent-color {
+    color: black;
+}
+
 h1 {
     font-size: 70px;
 }
@@ -19,7 +35,8 @@ div {
 }
 
 span {
-    color: yellow;
+    color: #0004ff6c;
     font-size: 30px;
     font-weight: bold;
 }
+
